@@ -1,6 +1,8 @@
-# Mercury Soluções de Logística
+# Dashboard em PowerBI
 
-Empresa fundada para realização do projeto integrador do segundo semestre de logistica com finalidade em analisar e correlacionar os dados de importação e exportação para fins academicos.
+![image](https://github.com/theuscards/InfoLog/assets/126296067/a7496ddc-bcf3-4027-adff-c4a01ca514ae)
+
+Este primeiro dashboard foi desenvolvido utilizando a base de dados da ANTT, após filtragem e modelagem das informações contidas nos arquivos em csv, foi possível representar de forma visual os acidentes que aconteceram na rodovia que liga SP ao RJ (RIOSP).
 
 Projeto com base na metodologia agil SCRUM, que visa promover o desenvolvimento entre os membros proporcionando a proatividade, trabalho em equipe, responsabilidade. Ocasionando a colaboração e Entrega de Resultados dos universitarios enredados.
 
