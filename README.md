@@ -25,27 +25,15 @@ Este primeiro dashboard foi desenvolvido utilizando a base de dados da ANTT, ap�
 - Canva
 - MS Excel
 - PowerBI
-- [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
   
  ### Mindset Digital
 - [Backlog](https://youtu.be/Ipg6Ox6qlC8)
 - [5W2H](https://youtu.be/M4dNnrcUq9s)
 - [Scrum](https://youtu.be/HlmiVz0SqNQ)
   
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Colaboração| ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Comunicação | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Autonomia | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Proatividade | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-
 </details>
 
 # Execução
-
-| Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: 
-|  Designer Gráfico  | Matheus Gustavo Oliveira Cardoso |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theuscards) 
+| Matheus Gustavo Oliveira Cardoso |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theuscards) 
 
 
