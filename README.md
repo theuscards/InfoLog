@@ -1,22 +1,14 @@
+# Índice
+
+* [Desenvolvimento](#dashboard-em-powerbi)
+* [Equipe](#equipe)
+* [Objetivo do Projeto](#objetivo-do-projeto)
+
 # Dashboard em PowerBI
 
 ![image](https://github.com/theuscards/InfoLog/assets/126296067/a7496ddc-bcf3-4027-adff-c4a01ca514ae)
 
 Este primeiro dashboard foi desenvolvido utilizando a base de dados da ANTT, após filtragem e modelagem das informações contidas nos arquivos em csv, foi possível representar de forma visual os acidentes que aconteceram na rodovia que liga SP ao RJ (RIOSP).
-
-Projeto com base na metodologia agil SCRUM, que visa promover o desenvolvimento entre os membros proporcionando a proatividade, trabalho em equipe, responsabilidade. Ocasionando a colaboração e Entrega de Resultados dos universitarios enredados.
-
-# Índice
-
-* [Projeto](#projeto)
-* [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros](#Funcionalidades-e-registros-das-sprints)
-* [Cronograma das Sprints](#Cronograma-das-Sprints)
-* [Backlog do produto](#Backlog-do-produto)
-* [Burndown](#Burndown)
-* [Competências desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
 
 # Projeto 
 Esse Projeto é para fins pedagógicos e sua estrutura é baseada na Metodologia API para o ensino-aprendizado que tem como estrutura o desenvolvimento de competências e a fundamentação primordial é nos aspectos do aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Uso de raciocínio lógico e elaboração de estratégias para analisar as lacunas e conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). Os resultados obtidos através dos projetos devem obedecer ao Aviso Legal SIC com definição das datas do kickoff e das sprints.
