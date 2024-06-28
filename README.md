@@ -10,6 +10,9 @@
 
 Este primeiro dashboard foi desenvolvido utilizando a base de dados da ANTT, após filtragem e modelagem das informações contidas nos arquivos em csv, foi possível representar de forma visual os acidentes que aconteceram na rodovia que liga SP ao RJ (RIOSP).
 
+# Coleta de dados
+![image](https://github.com/theuscards/InfoLog/assets/126296067/a14d46e0-88b7-49ca-9a47-30c6f44780a3)
+
 # Projeto 
 Esse Projeto é para fins pedagógicos e sua estrutura é baseada na Metodologia API para o ensino-aprendizado que tem como estrutura o desenvolvimento de competências e a fundamentação primordial é nos aspectos do aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Uso de raciocínio lógico e elaboração de estratégias para analisar as lacunas e conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). Os resultados obtidos através dos projetos devem obedecer ao Aviso Legal SIC com definição das datas do kickoff e das sprints.
 
